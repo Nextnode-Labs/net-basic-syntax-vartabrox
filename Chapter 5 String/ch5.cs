@@ -23,8 +23,8 @@ class Strings {
     string d = y.ToString() + " is " + 7.ToString(); // 7 is 7
     Console.WriteLine(d + " - string conversion can also be made explicitly with ToString() method ");
 
-    string str1 = "Summer";
-    string str2 = "2022";
+    //string str1 = "Summer";
+    //string str2 = "2022";
     //string str3 = $"{str1} {str2}"; // Summer 2022
     //Console.WriteLine(str3);
 
