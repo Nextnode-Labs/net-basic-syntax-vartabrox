@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\10_class\bin\Debug\net6.0\10_class.exe
+C:\Users\varta\Labs\10_class\bin\Debug\net6.0\10_class.deps.json
+C:\Users\varta\Labs\10_class\bin\Debug\net6.0\10_class.runtimeconfig.json
+C:\Users\varta\Labs\10_class\bin\Debug\net6.0\10_class.dll
+C:\Users\varta\Labs\10_class\bin\Debug\net6.0\10_class.pdb
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.AssemblyInfo.cs
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.dll
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\refint\10_class.dll
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.pdb
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\10_class.genruntimeconfig.cache
+C:\Users\varta\Labs\10_class\obj\Debug\net6.0\ref\10_class.dll
