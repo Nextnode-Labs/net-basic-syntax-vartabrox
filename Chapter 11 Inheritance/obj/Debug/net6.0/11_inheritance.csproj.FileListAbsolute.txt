@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\11_inheritance\bin\Debug\net6.0\11_inheritance.exe
+C:\Users\varta\Labs\11_inheritance\bin\Debug\net6.0\11_inheritance.deps.json
+C:\Users\varta\Labs\11_inheritance\bin\Debug\net6.0\11_inheritance.runtimeconfig.json
+C:\Users\varta\Labs\11_inheritance\bin\Debug\net6.0\11_inheritance.dll
+C:\Users\varta\Labs\11_inheritance\bin\Debug\net6.0\11_inheritance.pdb
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.AssemblyInfo.cs
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.dll
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\refint\11_inheritance.dll
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.pdb
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\11_inheritance.genruntimeconfig.cache
+C:\Users\varta\Labs\11_inheritance\obj\Debug\net6.0\ref\11_inheritance.dll
