@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\12_redefining_members\bin\Debug\net6.0\12_redefining_members.exe
+C:\Users\varta\Labs\12_redefining_members\bin\Debug\net6.0\12_redefining_members.deps.json
+C:\Users\varta\Labs\12_redefining_members\bin\Debug\net6.0\12_redefining_members.runtimeconfig.json
+C:\Users\varta\Labs\12_redefining_members\bin\Debug\net6.0\12_redefining_members.dll
+C:\Users\varta\Labs\12_redefining_members\bin\Debug\net6.0\12_redefining_members.pdb
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.AssemblyInfo.cs
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.dll
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\refint\12_redefining_members.dll
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.pdb
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\12_redefining_members.genruntimeconfig.cache
+C:\Users\varta\Labs\12_redefining_members\obj\Debug\net6.0\ref\12_redefining_members.dll
