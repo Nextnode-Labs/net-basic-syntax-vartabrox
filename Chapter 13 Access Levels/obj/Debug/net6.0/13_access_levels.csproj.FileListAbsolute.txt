@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\13_access_levels\bin\Debug\net6.0\13_access_levels.exe
+C:\Users\varta\Labs\13_access_levels\bin\Debug\net6.0\13_access_levels.deps.json
+C:\Users\varta\Labs\13_access_levels\bin\Debug\net6.0\13_access_levels.runtimeconfig.json
+C:\Users\varta\Labs\13_access_levels\bin\Debug\net6.0\13_access_levels.dll
+C:\Users\varta\Labs\13_access_levels\bin\Debug\net6.0\13_access_levels.pdb
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.AssemblyInfo.cs
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.dll
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\refint\13_access_levels.dll
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.pdb
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\13_access_levels.genruntimeconfig.cache
+C:\Users\varta\Labs\13_access_levels\obj\Debug\net6.0\ref\13_access_levels.dll
