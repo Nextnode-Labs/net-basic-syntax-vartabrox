@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\14_static\bin\Debug\net6.0\14_static.exe
+C:\Users\varta\Labs\14_static\bin\Debug\net6.0\14_static.deps.json
+C:\Users\varta\Labs\14_static\bin\Debug\net6.0\14_static.runtimeconfig.json
+C:\Users\varta\Labs\14_static\bin\Debug\net6.0\14_static.dll
+C:\Users\varta\Labs\14_static\bin\Debug\net6.0\14_static.pdb
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.AssemblyInfo.cs
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.dll
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\refint\14_static.dll
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.pdb
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\14_static.genruntimeconfig.cache
+C:\Users\varta\Labs\14_static\obj\Debug\net6.0\ref\14_static.dll
