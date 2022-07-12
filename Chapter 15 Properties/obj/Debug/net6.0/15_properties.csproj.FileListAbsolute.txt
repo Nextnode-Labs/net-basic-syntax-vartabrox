@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\15_properties\bin\Debug\net6.0\15_properties.exe
+C:\Users\varta\Labs\15_properties\bin\Debug\net6.0\15_properties.deps.json
+C:\Users\varta\Labs\15_properties\bin\Debug\net6.0\15_properties.runtimeconfig.json
+C:\Users\varta\Labs\15_properties\bin\Debug\net6.0\15_properties.dll
+C:\Users\varta\Labs\15_properties\bin\Debug\net6.0\15_properties.pdb
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.AssemblyInfo.cs
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.dll
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\refint\15_properties.dll
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.pdb
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\15_properties.genruntimeconfig.cache
+C:\Users\varta\Labs\15_properties\obj\Debug\net6.0\ref\15_properties.dll
