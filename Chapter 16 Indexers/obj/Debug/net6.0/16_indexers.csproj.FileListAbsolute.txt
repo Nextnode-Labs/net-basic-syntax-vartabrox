@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\16_indexers\bin\Debug\net6.0\16_indexers.exe
+C:\Users\varta\Labs\16_indexers\bin\Debug\net6.0\16_indexers.deps.json
+C:\Users\varta\Labs\16_indexers\bin\Debug\net6.0\16_indexers.runtimeconfig.json
+C:\Users\varta\Labs\16_indexers\bin\Debug\net6.0\16_indexers.dll
+C:\Users\varta\Labs\16_indexers\bin\Debug\net6.0\16_indexers.pdb
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.AssemblyInfo.cs
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.dll
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\refint\16_indexers.dll
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.pdb
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\16_indexers.genruntimeconfig.cache
+C:\Users\varta\Labs\16_indexers\obj\Debug\net6.0\ref\16_indexers.dll
