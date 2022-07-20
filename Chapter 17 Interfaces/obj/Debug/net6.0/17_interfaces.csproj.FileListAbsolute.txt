@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\17_interfaces\bin\Debug\net6.0\17_interfaces.exe
+C:\Users\varta\Labs\17_interfaces\bin\Debug\net6.0\17_interfaces.deps.json
+C:\Users\varta\Labs\17_interfaces\bin\Debug\net6.0\17_interfaces.runtimeconfig.json
+C:\Users\varta\Labs\17_interfaces\bin\Debug\net6.0\17_interfaces.dll
+C:\Users\varta\Labs\17_interfaces\bin\Debug\net6.0\17_interfaces.pdb
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.AssemblyInfo.cs
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.dll
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\refint\17_interfaces.dll
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.pdb
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\17_interfaces.genruntimeconfig.cache
+C:\Users\varta\Labs\17_interfaces\obj\Debug\net6.0\ref\17_interfaces.dll
