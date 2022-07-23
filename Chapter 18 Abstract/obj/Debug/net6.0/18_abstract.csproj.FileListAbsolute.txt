@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\18_abstract\bin\Debug\net6.0\18_abstract.exe
+C:\Users\varta\Labs\18_abstract\bin\Debug\net6.0\18_abstract.deps.json
+C:\Users\varta\Labs\18_abstract\bin\Debug\net6.0\18_abstract.runtimeconfig.json
+C:\Users\varta\Labs\18_abstract\bin\Debug\net6.0\18_abstract.dll
+C:\Users\varta\Labs\18_abstract\bin\Debug\net6.0\18_abstract.pdb
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.AssemblyInfo.cs
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.dll
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\refint\18_abstract.dll
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.pdb
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\18_abstract.genruntimeconfig.cache
+C:\Users\varta\Labs\18_abstract\obj\Debug\net6.0\ref\18_abstract.dll
