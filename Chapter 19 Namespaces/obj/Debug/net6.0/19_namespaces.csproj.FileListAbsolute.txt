@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\19_namespaces\bin\Debug\net6.0\19_namespaces.exe
+C:\Users\varta\Labs\19_namespaces\bin\Debug\net6.0\19_namespaces.deps.json
+C:\Users\varta\Labs\19_namespaces\bin\Debug\net6.0\19_namespaces.runtimeconfig.json
+C:\Users\varta\Labs\19_namespaces\bin\Debug\net6.0\19_namespaces.dll
+C:\Users\varta\Labs\19_namespaces\bin\Debug\net6.0\19_namespaces.pdb
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.AssemblyInfo.cs
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.dll
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\refint\19_namespaces.dll
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.pdb
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\19_namespaces.genruntimeconfig.cache
+C:\Users\varta\Labs\19_namespaces\obj\Debug\net6.0\ref\19_namespaces.dll
