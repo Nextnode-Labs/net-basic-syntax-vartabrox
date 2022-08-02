@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\20_enum\bin\Debug\net6.0\20_enum.exe
+C:\Users\varta\Labs\20_enum\bin\Debug\net6.0\20_enum.deps.json
+C:\Users\varta\Labs\20_enum\bin\Debug\net6.0\20_enum.runtimeconfig.json
+C:\Users\varta\Labs\20_enum\bin\Debug\net6.0\20_enum.dll
+C:\Users\varta\Labs\20_enum\bin\Debug\net6.0\20_enum.pdb
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.AssemblyInfo.cs
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.dll
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\refint\20_enum.dll
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.pdb
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\20_enum.genruntimeconfig.cache
+C:\Users\varta\Labs\20_enum\obj\Debug\net6.0\ref\20_enum.dll
