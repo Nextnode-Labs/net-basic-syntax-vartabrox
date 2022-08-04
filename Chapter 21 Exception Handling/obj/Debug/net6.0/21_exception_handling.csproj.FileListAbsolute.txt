@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\21_exception_handling\bin\Debug\net6.0\21_exception_handling.exe
+C:\Users\varta\Labs\21_exception_handling\bin\Debug\net6.0\21_exception_handling.deps.json
+C:\Users\varta\Labs\21_exception_handling\bin\Debug\net6.0\21_exception_handling.runtimeconfig.json
+C:\Users\varta\Labs\21_exception_handling\bin\Debug\net6.0\21_exception_handling.dll
+C:\Users\varta\Labs\21_exception_handling\bin\Debug\net6.0\21_exception_handling.pdb
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.AssemblyInfo.cs
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.dll
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\refint\21_exception_handling.dll
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.pdb
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\21_exception_handling.genruntimeconfig.cache
+C:\Users\varta\Labs\21_exception_handling\obj\Debug\net6.0\ref\21_exception_handling.dll
