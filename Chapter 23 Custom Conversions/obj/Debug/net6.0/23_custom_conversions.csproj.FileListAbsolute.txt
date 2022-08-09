@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\23_custom_conversions\bin\Debug\net6.0\23_custom_conversions.exe
+C:\Users\varta\Labs\23_custom_conversions\bin\Debug\net6.0\23_custom_conversions.deps.json
+C:\Users\varta\Labs\23_custom_conversions\bin\Debug\net6.0\23_custom_conversions.runtimeconfig.json
+C:\Users\varta\Labs\23_custom_conversions\bin\Debug\net6.0\23_custom_conversions.dll
+C:\Users\varta\Labs\23_custom_conversions\bin\Debug\net6.0\23_custom_conversions.pdb
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.AssemblyInfo.cs
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.dll
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\refint\23_custom_conversions.dll
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.pdb
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\23_custom_conversions.genruntimeconfig.cache
+C:\Users\varta\Labs\23_custom_conversions\obj\Debug\net6.0\ref\23_custom_conversions.dll
