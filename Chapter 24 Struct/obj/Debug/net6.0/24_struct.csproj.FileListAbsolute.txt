@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\24_struct\bin\Debug\net6.0\24_struct.exe
+C:\Users\varta\Labs\24_struct\bin\Debug\net6.0\24_struct.deps.json
+C:\Users\varta\Labs\24_struct\bin\Debug\net6.0\24_struct.runtimeconfig.json
+C:\Users\varta\Labs\24_struct\bin\Debug\net6.0\24_struct.dll
+C:\Users\varta\Labs\24_struct\bin\Debug\net6.0\24_struct.pdb
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.AssemblyInfo.cs
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.dll
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\refint\24_struct.dll
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.pdb
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\24_struct.genruntimeconfig.cache
+C:\Users\varta\Labs\24_struct\obj\Debug\net6.0\ref\24_struct.dll
