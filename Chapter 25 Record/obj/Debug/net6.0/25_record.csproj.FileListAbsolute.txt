@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\25_record\bin\Debug\net6.0\25_record.exe
+C:\Users\varta\Labs\25_record\bin\Debug\net6.0\25_record.deps.json
+C:\Users\varta\Labs\25_record\bin\Debug\net6.0\25_record.runtimeconfig.json
+C:\Users\varta\Labs\25_record\bin\Debug\net6.0\25_record.dll
+C:\Users\varta\Labs\25_record\bin\Debug\net6.0\25_record.pdb
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.AssemblyInfo.cs
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.dll
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\refint\25_record.dll
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.pdb
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\25_record.genruntimeconfig.cache
+C:\Users\varta\Labs\25_record\obj\Debug\net6.0\ref\25_record.dll
