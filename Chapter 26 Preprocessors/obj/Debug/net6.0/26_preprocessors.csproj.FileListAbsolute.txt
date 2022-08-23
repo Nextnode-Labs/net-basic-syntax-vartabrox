@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\26_preprocessors\bin\Debug\net6.0\26_preprocessors.exe
+C:\Users\varta\Labs\26_preprocessors\bin\Debug\net6.0\26_preprocessors.deps.json
+C:\Users\varta\Labs\26_preprocessors\bin\Debug\net6.0\26_preprocessors.runtimeconfig.json
+C:\Users\varta\Labs\26_preprocessors\bin\Debug\net6.0\26_preprocessors.dll
+C:\Users\varta\Labs\26_preprocessors\bin\Debug\net6.0\26_preprocessors.pdb
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.AssemblyInfo.cs
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.dll
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\refint\26_preprocessors.dll
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.pdb
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\26_preprocessors.genruntimeconfig.cache
+C:\Users\varta\Labs\26_preprocessors\obj\Debug\net6.0\ref\26_preprocessors.dll
