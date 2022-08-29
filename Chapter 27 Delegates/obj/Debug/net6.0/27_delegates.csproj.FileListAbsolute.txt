@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\27_delegates\bin\Debug\net6.0\27_delegates.exe
+C:\Users\varta\Labs\27_delegates\bin\Debug\net6.0\27_delegates.deps.json
+C:\Users\varta\Labs\27_delegates\bin\Debug\net6.0\27_delegates.runtimeconfig.json
+C:\Users\varta\Labs\27_delegates\bin\Debug\net6.0\27_delegates.dll
+C:\Users\varta\Labs\27_delegates\bin\Debug\net6.0\27_delegates.pdb
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.AssemblyInfo.cs
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.dll
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\refint\27_delegates.dll
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.pdb
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\27_delegates.genruntimeconfig.cache
+C:\Users\varta\Labs\27_delegates\obj\Debug\net6.0\ref\27_delegates.dll
