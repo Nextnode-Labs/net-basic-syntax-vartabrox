@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\28_events\bin\Debug\net6.0\28_events.exe
+C:\Users\varta\Labs\28_events\bin\Debug\net6.0\28_events.deps.json
+C:\Users\varta\Labs\28_events\bin\Debug\net6.0\28_events.runtimeconfig.json
+C:\Users\varta\Labs\28_events\bin\Debug\net6.0\28_events.dll
+C:\Users\varta\Labs\28_events\bin\Debug\net6.0\28_events.pdb
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.AssemblyInfo.cs
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.dll
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\refint\28_events.dll
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.pdb
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\28_events.genruntimeconfig.cache
+C:\Users\varta\Labs\28_events\obj\Debug\net6.0\ref\28_events.dll
