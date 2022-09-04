@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\29_generics\bin\Debug\net6.0\29_generics.exe
+C:\Users\varta\Labs\29_generics\bin\Debug\net6.0\29_generics.deps.json
+C:\Users\varta\Labs\29_generics\bin\Debug\net6.0\29_generics.runtimeconfig.json
+C:\Users\varta\Labs\29_generics\bin\Debug\net6.0\29_generics.dll
+C:\Users\varta\Labs\29_generics\bin\Debug\net6.0\29_generics.pdb
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.AssemblyInfo.cs
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.dll
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\refint\29_generics.dll
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.pdb
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\29_generics.genruntimeconfig.cache
+C:\Users\varta\Labs\29_generics\obj\Debug\net6.0\ref\29_generics.dll
