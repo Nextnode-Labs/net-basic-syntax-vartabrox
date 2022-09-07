@@ -1,0 +1,15 @@
+C:\Users\varta\Labs\30_constants\bin\Debug\net6.0\30_constants.exe
+C:\Users\varta\Labs\30_constants\bin\Debug\net6.0\30_constants.deps.json
+C:\Users\varta\Labs\30_constants\bin\Debug\net6.0\30_constants.runtimeconfig.json
+C:\Users\varta\Labs\30_constants\bin\Debug\net6.0\30_constants.dll
+C:\Users\varta\Labs\30_constants\bin\Debug\net6.0\30_constants.pdb
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.csproj.AssemblyReference.cache
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.AssemblyInfoInputs.cache
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.AssemblyInfo.cs
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.csproj.CoreCompileInputs.cache
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.dll
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\refint\30_constants.dll
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.pdb
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\30_constants.genruntimeconfig.cache
+C:\Users\varta\Labs\30_constants\obj\Debug\net6.0\ref\30_constants.dll
